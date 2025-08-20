@@ -1,0 +1,13 @@
+Time,Fixed-Point-Operation,Node,Label,Old Bound,New Bound,Occurred Due To
+0,0,AAPL,uptrend,-,"[1.0,1.0]",-
+0,0,MSFT,downtrend,-,"[1.0,1.0]",-
+0,0,GOOGL,downtrend,-,"[1.0,1.0]",-
+0,0,AMZN,uptrend,-,"[1.0,1.0]",-
+1,1,AAPL,uptrend,-,"[1.0,1.0]",-
+1,1,MSFT,downtrend,-,"[1.0,1.0]",-
+1,1,GOOGL,downtrend,-,"[1.0,1.0]",-
+1,1,AMZN,uptrend,-,"[1.0,1.0]",-
+2,2,AAPL,uptrend,-,"[1.0,1.0]",-
+2,2,MSFT,downtrend,-,"[1.0,1.0]",-
+2,2,GOOGL,downtrend,-,"[1.0,1.0]",-
+2,2,AMZN,uptrend,-,"[1.0,1.0]",-
